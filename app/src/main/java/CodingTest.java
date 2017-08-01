@@ -4,9 +4,8 @@
 
 public class CodingTest {
     public static main(String[] args){
-        int num 5, num 6, num 7,num 8;
-
-   //     if ()
+        
+   //   problem one
             public void printnumber(ArrayList<integer> , num){
 
             int [] numbers = new int { 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
@@ -44,15 +43,7 @@ public class CodingTest {
         }
         for (int i=0, i< stringArrayList.lenght, i++){
             System.out.println(stringArrayList[i]);
-   //         int [] arrayList = new arraylist[10];
-   //     for(int 1=0, i< arraylist.lenght, i++)
-    //        {
-            arraylist('0');
-            arraylist.add('1');
-                num3  = arraylist.add ('2);
-
-
-
+        }
 
         }
     }
