@@ -40,10 +40,10 @@ public class CodingTest {
         }
         else
         {
-            System.out.println("There is not duplicate");''
+            System.out.println("There is not duplicate");
         }
-
-
+        for (int i=0, i< stringArrayList.lenght, i++){
+            System.out.println(stringArrayList[i]);
    //         int [] arrayList = new arraylist[10];
    //     for(int 1=0, i< arraylist.lenght, i++)
     //        {
